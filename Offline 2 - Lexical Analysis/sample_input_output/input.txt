@@ -1,0 +1,68 @@
+int main(){
+  if(a==1)
+  {
+    for(int i=0;i<10;i++)
+    {
+      a=1;
+      char ch;
+      ch = ''';
+      'a'
+      '\a'
+      '1'
+      ')'
+      '\n'
+      '\\'
+      '\''
+      '\"'
+      '\0'
+      'c'
+      '\b'
+      'b'
+      '\f'
+      'v'
+      '\v'
+      '/'
+      '''''''  sdfsdf sdfsdfsd sdfdsfsdfsd ;
+      '?'
+      '\?'
+      'ads\n'
+      '\t\t'
+        "asdf11212\n\r\a\ds  as 1\ 4\"";
+        "";
+        "asdfasdfasdf asdfa dgretyw54y w45t 34r \
+        a\
+        f\n";
+        "
+        sdfsd"
+        "asa \ 
+        d"
+    }
+    asdf
+    10_dk
+    _
+    asdf_
+   asf_dsdfs1112
+    [sdsd]
+   []
+   asdf[sd]
+   asd[]
+
+//this is a comment
+//////this is a c/\o\t\n\""mment
+//this a comment but multi\
+asdf\
+sad\
+ /*     
+//*  } */
+///*s*/
+/*//*d*//*dd*/
+}
+"abcd"
+"abcd\""
+"abc\"d"
+"abcd\"
+/*ass
+sad
+/
+/*
+asd*/
